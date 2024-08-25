@@ -33,9 +33,11 @@ https://www.kaggle.com/datasets/joebeachcapital/ign-games
 ### Analysis and visualization | Análisis y visualización  
 
 ### -- >Goole Looker Dashboard  
-![looker_dash](https://github.com/user-attachments/assets/00049887-63d0-4b30-8793-7b2b0be056d6)  
+![looker](https://github.com/user-attachments/assets/6ed3d8a1-0283-4988-908e-d27b63c2ec2d)
+
 
 ### -- >Power BI Dashboard  
-![power](https://github.com/user-attachments/assets/2aa36d62-e9da-42b9-9859-c30fc94d765f)
+![bi](https://github.com/user-attachments/assets/0b8854ad-8185-463e-ac06-857cde38f40c)
+
 
 
